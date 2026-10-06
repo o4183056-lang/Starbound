@@ -1,10 +1,10 @@
 body {
-    background-color: #10101a;
-    color: #eeeeee;
-    font-family: sans-serif;
-    text-align: center;
+    background-image: url("starry.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
-
 h1 {
     font-size: 60px;
     letter-spacing: 8px;
