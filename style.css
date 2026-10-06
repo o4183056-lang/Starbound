@@ -1,0 +1,15 @@
+body {
+    background-color: #10101a;
+    color: #eeeeee;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    letter-spacing: 8px;
+}
+
+p {
+    font-size: 20px;
+}
