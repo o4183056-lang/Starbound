@@ -10,6 +10,13 @@ h1 {
     letter-spacing: 8px;
 }
 
+h1 img {
+    width: 600px;
+    max-width: 100%;
+    height: auto;
+    image-rendering: pixelated;
+}
+
 p {
     font-size: 20px;
 }
