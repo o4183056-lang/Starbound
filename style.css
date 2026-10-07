@@ -15,8 +15,11 @@ h1 {
 }
 
 .about {
-    max-width: 600px;
+    width: 600px;
     margin: 100px auto 0;
+    padding: 20px;
+    background-color: #181824;
+    border: 1px solid #44445a;
 }
 
 p {
