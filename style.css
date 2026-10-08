@@ -44,6 +44,10 @@ nav a:hover {
     font-size: 18px;
 }
 
+.about p:last-child {
+    margin-top: 25px;
+}
+
 .about p {
     margin-bottom: 20px;
 }
