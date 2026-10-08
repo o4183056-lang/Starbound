@@ -1,6 +1,7 @@
 body {
     background-image: url("starry.png");
     background-repeat: repeat;
+    background-color: #000000;
     color: #eeeeee;
     font-family: sans-serif;
     text-align: center;
